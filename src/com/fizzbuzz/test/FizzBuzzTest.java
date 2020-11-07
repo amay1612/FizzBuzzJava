@@ -16,3 +16,4 @@ public class FizzBuzzTest {
         Assert.assertEquals("2", fizzBuzz.convert(2));
 
 }
+}
